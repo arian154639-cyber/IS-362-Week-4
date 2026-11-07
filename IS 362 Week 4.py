@@ -1,9 +1,3 @@
-"""
-I'm aware that the code in this file is repetitive. It didn't occur to me 
-to try using less repetitive methods until the deadline was approaching. 
-The output still meets the project's functional requirements.
-"""
-
 import pandas as pd
 DataFrame = pd.read_csv("C:/Users/sharf/Downloads/IS_362_Week4_CSV.csv")
 print(DataFrame)
